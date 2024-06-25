@@ -1,4 +1,3 @@
-// Template for JEST tests
 import bubbleSort from "../bubble_sort";
 
 describe("Bubble sorting tests", () => {
